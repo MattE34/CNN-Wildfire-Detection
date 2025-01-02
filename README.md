@@ -1,4 +1,4 @@
-# CNN-Wildfire-Detection
+# CNN Wildfire Detection
 
 CNN-based wildfire detection project focusing on performance tradeoffs between accuracy and speed, including experiments with YOLOv7 and Tiny YOLOv7 models. It showcases model training, inference evaluations (CPU vs. GPU), and parameter tuning (image sizes, epoch counts) to efficiently detect fire and smoke in images.
 
